@@ -39,7 +39,7 @@ $ npm run test:cov
 #### Sign in
 
 ```http
-  GET /api/v1/signin
+  POST /api/v1/signin
 ```
 
 | Parameter | Type     | Description                |
