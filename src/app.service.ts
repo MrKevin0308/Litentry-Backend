@@ -36,7 +36,8 @@ export class AppService {
   }
 
   async getSecretCode(address, hash) {
-    const isValid = this.checkSession(address, hash);
+    const isValid = await this.checkSession(address, hash);
+    console.log(isValid, address, hash);
     if (!isValid) {
       throw new BadRequestException('Authorization is not valid');
     }
