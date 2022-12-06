@@ -1,8 +1,8 @@
 {
-  "name": "faculty-backend",
+  "name": "litentry-backend",
   "private": true,
   "version": "1.0.0",
-  "description": "Nest TypeScript Backend for Faculty Test",
+  "description": "Nest TypeScript Backend for Litentry Test",
   "license": "MIT",
   "scripts": {
     "build": "nest build",

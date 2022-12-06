@@ -1,6 +1,7 @@
 ## Litentry Backend
 
-Built with [Nest](https://github.com/nestjs/nest) framework.
+Built with [Nest](https://github.com/nestjs/nest) framework.<br/>
+Deployed url: [https://litentry-backend.herokuapp.com](https://litentry-backend.herokuapp.com)
 
 ## Installation
 
